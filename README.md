@@ -6,20 +6,19 @@
 Yamakan is an application built using **Flutter**, designed to help users discover the best places to go out in Egypt based on their location or interests.  
 
 ## 🚀 Key Features  
-- 🎨 **Modern and attractive UI design**  
-- 📍 **Search for nearby and featured places**  
-- 🔍 **Filter places based on interests**  
-- 🌙 **Dark mode support**  
-- 📡 **Data synchronization with Firebase**  
-- 📊 **Statistics to track the most visited places**  
-- 💾 **Offline mode support**  
+- **Modern and attractive UI design**  
+- **Search for nearby and featured places**  
+- **Filter places based on interests**  
+- **Dark mode support**  
+- **Data synchronization with Firebase**  
+- **Statistics to track the most visited places**  
+- **Offline mode support**  
 
 ## 🛠️ Requirements  
 Before running the app, make sure you have the following:  
 
 - ✅ Flutter SDK installed on your device  
-- ✅ A device running **Android** or **iOS** (or an emulator)  
-- ✅ A Firebase account (if cloud sync is required)  
+- ✅ A device running **Android** or **iOS** (or an emulator)    
 
 ## 📥 Installation & Running  
 
