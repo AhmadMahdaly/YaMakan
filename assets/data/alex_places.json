@@ -1,0 +1,375 @@
+[
+  {
+    "id": "alex_library",
+    "categories": ["all", "cultural", "museum"],
+    "image": "assets/images/items/cities/alex/مكتبة الأسكندرية.jpg",
+    "text": "AlexandriaLibrary",
+    "placeName": "AlexandriaLibrary",
+    "descriptionText": "AlexLib",
+    "openingHours": "${TR().f10_00amT07_00pm}\\n\\n${TR().exceptDays}:\\n${TR().friday} ${TR().closed}.\\n${TR().saturday} ${TR().f10_00amT02_00pm}.",
+    "tickets": "${TR().egyptian}: 10 ${TR().egyPound}\\n${TR().egyptianStudent}: 5 ${TR().egyPound}\\n${TR().foreign}: 150 ${TR().egyPound}\\n${TR().foreignStudent}: 20 ${TR().egyPound}\\n\\n***${'MArchaeology'.tr()}:\\n${TR().egyptian}: 20 ${TR().egyPound}\\n${TR().egyptianStudent}: 10 ${TR().egyPound}\\n${TR().foreign}: 100 ${TR().egyPound}\\n${TR().foreignStudent}: 50 ${TR().egyPound}\\n\\n***${'ManuscriptM'.tr()}:\\n${TR().egyptian}: 20 ${TR().egyPound}\\n${TR().egyptianStudent}: 10 ${TR().egyPound}\\n${TR().foreign}: 60 ${TR().egyPound}\\n${TR().foreignStudent}: 30 ${TR().egyPound}",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/BYrhoUjRkyFcjdL8A",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://arquitecturaviva.com/assets/uploads/obras/40325/av_imagen.webp",
+      "https://www.egypttoursportal.com/images/2017/11/Alexandria-Library-Egypt-Tours-Portal.jpg",
+      "https://www.youregypttours.com/storage/850/1667735700.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Alexandria%27s_Bibliotheca.jpg",
+      "https://d-techinternational.com/wp-content/uploads/2017/12/new-alexandria-library1.jpg",
+      "https://amimagazine.org/wp-content/uploads/2023/09/the-ancient-library-at-alexandria-midjourney-v0-nc2oqvjxjdb91.webp",
+      "https://images.pexels.com/photos/30021485/pexels-photo-30021485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021486/pexels-photo-30021486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021487/pexels-photo-30021487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021488/pexels-photo-30021488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021489/pexels-photo-30021489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021492/pexels-photo-30021492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021494/pexels-photo-30021494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021495/pexels-photo-30021495.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021491/pexels-photo-30021491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021490/pexels-photo-30021490.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30021493/pexels-photo-30021493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "id": "alex_corniche",
+    "categories": ["all"],
+    "image": "assets/images/items/cities/alex/كورنيس اسكندرية.jpg",
+    "text": "AlexandriaCorn",
+    "placeName": "AlexandriaCorn",
+    "descriptionText": "AlexCorn",
+    "openingHours": null,
+    "tickets": null,
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/1bXKR1ugqQRCqWEu5",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Corniche_of_Alexandria.jpg/1200px-Corniche_of_Alexandria.jpg",
+      "https://paliparan.com/wp-content/uploads/2024/04/alexandria-89.jpg",
+      "https://www.urtrips.com/wp-content/uploads/2022/09/alexanderia-corniche5.jpg",
+      "https://media.capitalgate.news/img/24/02/19/1919.jpg",
+      "https://www.arabcont.com/Images/ProjectImage/AlexCornish01.jpg"
+    ]
+  },
+  {
+    "id": "stanley_bridge",
+    "categories": ["all"],
+    "image": "assets/images/items/cities/alex/كوبري استانلي.jpg",
+    "text": "StanleyBridge",
+    "placeName": "StanleyBridge",
+    "descriptionText": "StanlyAbout",
+    "openingHours": null,
+    "tickets": null,
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/rz4DUftXNbW2qWri6",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Stanley_Bridge%2C_Alexandria%2C_Egypt.jpg/1200px-Stanley_Bridge%2C_Alexandria%2C_Egypt.jpg",
+      "https://us.images.westend61.de/0001402027pw/egypt-alexandria-stanley-bridge-at-sunrise-TAMF02342.jpg",
+      "https://www.arabcont.com/Images/ProjectImage/Stanly02.jpg"
+    ]
+  },
+  {
+    "id": "montazah_palace",
+    "categories": ["all", "park"],
+    "image": "assets/images/items/cities/alex/المنتزه.jpg",
+    "text": "MontazahPalace",
+    "placeName": "MontazahPalace",
+    "descriptionText": "MontazahAbout",
+    "openingHours": "MontazahOpen",
+    "tickets": "25 ${\"EGP\".tr()}",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/AV5pPoUoTtLmW1HL9",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://scenenow.com/Content/editor_api/images/Al%20Montazah%20Palace_WEBSITE02-aa83b056-d6d8-4df0-a1ae-bffff8d9c77a.jpg",
+      "https://www.youregypttours.com/storage/1084/1678608620.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alexandria-MontazahPalace.jpg/1200px-Alexandria-MontazahPalace.jpg",
+      "https://images.unsplash.com/photo-1652610494391-b7adbcd83a99?q=80&w=1305&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "id": "citadel_qaitbay",
+    "categories": ["all", "historical"],
+    "image": "assets/images/items/cities/alex/قلعة قايتباي.jpg",
+    "text": "BeyCitadel",
+    "placeName": "BeyCitadel",
+    "descriptionText": "BeyAbout",
+    "openingHours": "${TR().f09_00amT04_00pm}",
+    "tickets": "${TR().egyptian}: 60 ${TR().egyPound}\\n${TR().egyptianStudent}: 30 ${TR().egyPound}\\n${TR().foreign}: 200 ${TR().egyPound}\\n${TR().foreignStudent}: 100 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/CitadelofQaitbay",
+    "locationUrl": "https://maps.app.goo.gl/7zwR5NnHgHRYQfQk9",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://images.unsplash.com/photo-1682090471391-413a38705abe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1697546889969-27f7b5be8664?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1610131042652-42d6f3754c51?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1600238771534-3413182d64eb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551772097-121d550d46e4?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Alexandria_Egypt_%28235108463%29.jpeg",
+      "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,c_scale,q_auto/cnnarabic/2020/09/06/images/164256.jpg"
+    ]
+  },
+  {
+    "id": "aquarium_museum",
+    "categories": ["all", "museum"],
+    "image": "assets/images/items/category/historical/aquarium.jpg",
+    "text": "AquariumMuseum",
+    "placeName": "AquariumMuseum",
+    "descriptionText": "AquariumMuseumAbout",
+    "openingHours": "${TR().f09_00amT05_00pm}",
+    "tickets": "${TR().egyptian}: 10 ${TR().egyPound}\\n${TR().egyptianStudent}: 5 ${TR().egyPound}\\n${TR().foreign}: 20 ${TR().egyPound}\\n${TR().foreignStudent}: 15 ${TR().egyPound}",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/xqWJ4PnSv1Qzi1po8",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://www.tar7al.com/wp-content/uploads/2022/12/aquarium-in-alexandria-9.jpg",
+      "https://fastly.4sqi.net/img/general/width960/19559560_8AJhrLTCSgs4tCy_rhLNbAC0EFLOWAjYP4_Y4z0atdQ.jpg"
+    ]
+  },
+  {
+    "id": "farouk_cafe",
+    "categories": ["all", "cafe"],
+    "image": "assets/images/items/cities/alex/فاروق.jpg",
+    "text": "FaroukCafe",
+    "placeName": "FaroukCafe",
+    "descriptionText": "FaroukCafeAbout",
+    "openingHours": "OpeningAllTime",
+    "tickets": "FeesOnOrder",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/7mFF8iCmDvo8fAVQ7",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://pbs.twimg.com/media/FcVv-0yXwAAcorr?format=jpg&name=large"
+    ]
+  },
+  {
+    "id": "street_of_statues",
+    "categories": ["all"],
+    "image": "assets/images/items/cities/alex/ش التماثيل (1).jpg",
+    "text": "StreetOfStatues",
+    "placeName": "StreetOfStatues",
+    "descriptionText": "StreetOfStatuesAbout",
+    "openingHours": "OpeningAllTime",
+    "tickets": "Free",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/MFAKGnU4oJxhDcCs7",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://img.youm7.com/ArticleImgs/2024/3/20/170769-%D8%AA%D9%85%D8%AB%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%8A%D8%AD%D8%AA%D8%B6%D9%86-%D8%A7%D8%A8%D9%86%D8%AA%D8%A9-.jpeg",
+      "https://img.youm7.com/ArticleImgs/2024/8/10/199264-%D8%AA%D9%85%D8%AB%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-8.jpeg"
+    ]
+  },
+  {
+    "id": "roman_theater",
+    "categories": ["all", "historical"],
+    "image": "assets/images/items/cities/alex/المسرح الروماني.jpg",
+    "text": "RomanTheater",
+    "placeName": "RomanTheater",
+    "descriptionText": "RomanTAbout",
+    "openingHours": "${TR().f09_00amT04_00pm}",
+    "tickets": "${TR().egyptian}: 20 ${TR().egyPound}\\n${TR().egyptianStudent}: 10 ${TR().egyPound}\\n${TR().foreign}: 200 ${TR().egyPound}\\n${TR().foreignStudent}: 100 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/RomanAmphitheatre",
+    "locationUrl": "https://maps.app.goo.gl/44G8bKdqArPqcmqf9",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://admin.ask-aladdin.com/photos/egypt/articles/amphitheatre-askaladdin.webp",
+      "https://i0.wp.com/ancienttheatrearchive.com/wp-content/uploads/2022/05/alexandria-1-Edit.jpg?fit=1936%2C1288&ssl=1",
+      "https://st5.depositphotos.com/3531125/66969/i/450/depositphotos_669691996-stock-photo-archaeological-site-roman-amphitheater-kom.jpg",
+      "https://www.abou-alhool.com/ima/40439_160125_1423_6ecfb.jpg",
+      "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,c_scale,q_auto/cnnarabic/2020/11/18/images/170426.jpg"
+    ]
+  },
+  {
+    "id": "kafy_museum",
+    "categories": ["all", "cultural", "museum"],
+    "image": "assets/images/core/categories/muse/Cafy.jpg",
+    "text": "KafyMuse",
+    "placeName": "KafyMuse",
+    "descriptionText": "KafyMuseAbout",
+    "openingHours": "${TR().f10_00amT05_00pm}\\n ${TR().exceptDays} ${TR().monday}",
+    "tickets": "${TR().free}",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/Gf7vCA3kNw16zFQu5",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://images.pexels.com/photos/29539566/pexels-photo-29539566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29539562/pexels-photo-29539562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29539612/pexels-photo-29539612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29539611/pexels-photo-29539611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29539655/pexels-photo-29539655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "id": "darwish_theater",
+    "categories": ["all", "cultural"],
+    "image": "assets/images/items/category/cultural/مسرح درويش.jpeg",
+    "text": "DarwishTheater",
+    "placeName": "DarwishTheater",
+    "descriptionText": "DarwishTheaterAbout",
+    "openingHours": "${\"f11at3p\".tr()}\\n ${\"OffFriSat\".tr()}",
+    "tickets": "OperaTickets",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/DRaSevaMzrXCupzZ7",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%88%D8%A7%D8%AC%D9%87%D9%87_%D9%85%D8%B3%D8%B1%D8%AD_%D8%B3%D9%8A%D8%AF_%D8%AF%D8%B1%D9%88%D9%8A%D8%B4_%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9.jpg",
+      "https://www.cairoopera.org/media/r0mnwias/23199-60.jpg",
+      "https://www.albawabhnews.com/Upload/libfiles/625/2/65.jpg"
+    ]
+  },
+  {
+    "id": "greco_roman_museum",
+    "categories": ["all", "historical", "museum"],
+    "image": "assets/images/items/category/historical/اليوناني الروماين.jpg",
+    "text": "GrecoRomanMuseum",
+    "placeName": "GrecoRomanMuseum",
+    "descriptionText": "GrecoRomanMuseumAbout",
+    "openingHours": "${TR().f09_00amT05_00pm}",
+    "tickets": "${TR().egyptian}: 40 ${TR().egyPound}\\n${TR().egyptianStudent}: 20 ${TR().egyPound}\\n${TR().foreign}: 400 ${TR().egyPound}\\n${TR().foreignStudent}: 200 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/GraecoRomanMuseum",
+    "locationUrl": "https://maps.app.goo.gl/2cZf3fLL33XTx3Zi6",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://www.alkhaleej.ae/sites/default/files/2023-10/5480007.jpeg",
+      "https://alnnhar.com/wp-content/uploads/2021/02/Graeco-Roman-Museum2.jpg",
+      "https://www.masrtimes.com/Upload/libfiles/34/2/236.jpg",
+      "https://www.maspero.eg/images/2023/10/16979826334.jpg"
+    ]
+  },
+  {
+    "id": "alex_national_museum",
+    "categories": ["all", "historical", "museum"],
+    "image": "assets/images/items/category/historical/متحف الاسكندرية القومي.jpg",
+    "text": "AlexandriaNationalMuseum",
+    "placeName": "AlexandriaNationalMuseum",
+    "descriptionText": "AlexandriaNationalMuseumAbout",
+    "openingHours": "${TR().f09_00amT04_00pm}",
+    "tickets": "${TR().egyptian}: 20 ${TR().egyPound}\\n${TR().egyptianStudent}: 5 ${TR().egyPound}\\n${TR().foreign}: 220 ${TR().egyPound}\\n${TR().foreignStudent}: 110 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/AlexandriaNationalMuseum",
+    "locationUrl": "https://maps.app.goo.gl/k7dh1TfZRnCjoFSv6",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://media.gemini.media/img/Original/2023/8/30/2023_8_30_17_38_39_626.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqVvcJzabZPtjxef6n3EGYivzvzWA7k9AwvsIymZ1XT5VgXdHEqWGqN9dLGBxYz84HMVFAXXT4tr6rYetBWAHChXNe3Yub1NqPTlU460b4U7zxA05ZSWR00Tgd2VJXkZPM-pTbO13YuHthPUpzDf87rMyTtW--VFvTL2y7MvTQwpPqHdJR3iFxJ8PR/s320/FCEF916B-68DC-4B9B-B371-99073739C4A7.jpeg",
+      "https://mediaaws.almasryalyoum.com/news/large/2022/10/15/1919903_0.jpeg"
+    ]
+  },
+  {
+    "id": "royal_jewellery_museum",
+    "categories": ["all", "historical", "museum"],
+    "image": "assets/images/core/categories/muse/RoyalJewelleryMuseum.jpg",
+    "text": "RoyalJewelleryM",
+    "placeName": "RoyalJewelleryM",
+    "descriptionText": "RoyalJewelleryMAbout",
+    "openingHours": "${TR().f09_00amT04_00pm}",
+    "tickets": "${TR().egyptian}: 20 ${TR().egyPound}\\n${TR().egyptianStudent}: 5 ${TR().egyPound}\\n${TR().foreign}: 220 ${TR().egyPound}\\n${TR().foreignStudent}: 110 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/RoyalJewelleryMuseum",
+    "locationUrl": "https://maps.app.goo.gl/FqxWyycYncj3iSyT6",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://images.pexels.com/photos/29540201/pexels-photo-29540201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803405/pexels-photo-29803405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803403/pexels-photo-29803403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803409/pexels-photo-29803409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803417/pexels-photo-29803417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803463/pexels-photo-29803463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803468/pexels-photo-29803468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803470/pexels-photo-29803470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803479/pexels-photo-29803479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803548/pexels-photo-29803548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803484/pexels-photo-29803484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803601/pexels-photo-29803601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/29803582/pexels-photo-29803582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "id": "kom_el_shoqafa_catacombs",
+    "categories": ["all", "historical"],
+    "image": "assets/images/items/category/other/الشقافة.jpg",
+    "text": "Catacombs",
+    "placeName": "Catacombs",
+    "descriptionText": "CatacombsAbout",
+    "openingHours": "${TR().f09_00amT04_00pm}",
+    "tickets": "${TR().egyptian}: 30 ${TR().egyPound}\\n${TR().egyptianStudent}: 10 ${TR().egyPound}\\n${TR().foreign}: 200 ${TR().egyPound}\\n${TR().foreignStudent}: 100 ${TR().egyPound}",
+    "bookUrl": "$tecketsUrl/KomelShoqafaCatacombs",
+    "locationUrl": "https://maps.app.goo.gl/1kwzhcEqXvXdgAXC8",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://cdn.projectexpedition.com/photos/3795sightattractioncatacombs_of_komelshokafa_alexandria_egypt_sized.jpg",
+      "https://www.ramassidetours.com/uploaded/blogs-1722735621.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/113KOM_EL_SHOQAFA_CATACOMBS.jpg/1280px-113KOM_EL_SHOQAFA_CATACOMBS.jpg",
+      "https://magiclifetours.com/images/5404e62b81ae0839d4825e55f3fba8c8.jpg",
+      "https://unitedguidestravel.com/wp-content/uploads/2022/03/inner-wall-of-Catacombs-of-Kom-El-Shoqafa.jpg",
+      "https://www.heritagedaily.com/wp-content/uploads/2022/04/shutterstock-1925174852-1500x1000.jpg?ezimgfmt=ngcb2/notWebP"
+    ]
+  },
+  {
+    "id": "al_mursi_mosque",
+    "categories": ["all", "religious"],
+    "image": "assets/images/core/categories/religious/المرسي.jpg",
+    "text": "AlMursiMosque",
+    "placeName": "AlMursiMosque",
+    "descriptionText": "AlMursiMosqueAbout",
+    "openingHours": null,
+    "tickets": null,
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/ewnNdretvNBdP9Ay9",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abu_al-Abbas_al-Mursi_Mosque01.JPG/1280px-Abu_al-Abbas_al-Mursi_Mosque01.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alex_17.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Abu_el-Abbas_el-Mursi_Mosque.jpg/800px-Abu_el-Abbas_el-Mursi_Mosque.jpg"
+    ]
+  },
+  {
+    "id": "waterfall_park",
+    "categories": ["all", "park"],
+    "image": "assets/images/items/category/parks/حدائق-الشلالات.jpg",
+    "text": "WaterfallPark",
+    "placeName": "WaterfallPark",
+    "descriptionText": "WaterfallParkAbout",
+    "openingHours": "${TR().f10_00amT12_00am}",
+    "tickets": null,
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/wcs1VcWqYWS2NMHP9",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Shalalat_gardens.JPG/1280px-Shalalat_gardens.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%D8%AD%D8%AF%D9%8A%D9%82%D9%87_%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_._%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D9%87.jpg/1280px-%D8%AD%D8%AF%D9%8A%D9%82%D9%87_%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_._%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D9%87.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/AlexHellenistischeStadtmauer.jpg"
+    ]
+  },
+  {
+    "id": "wafik_restaurant",
+    "categories": ["all", "restaurant"],
+    "image": "assets/images/items/cities/alex/وفيق.jpg",
+    "text": "Wafik",
+    "placeName": "Wafik",
+    "descriptionText": "WafikAbout",
+    "openingHours": "WafikOpen",
+    "tickets": "FeesOnOrder",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/1uP7JCHQgSwQ3B238",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://i.ytimg.com/vi/dwq5j8cgfAs/maxresdefault.jpg"
+    ]
+  },
+  {
+    "id": "abu_helmy_restaurant",
+    "categories": ["all", "restaurant"],
+    "image": "assets/images/items/cities/alex/أبو حلمي.jpg",
+    "text": "AbuHelmy",
+    "placeName": "AbuHelmy",
+    "descriptionText": "AbuHelmyAbout",
+    "openingHours": "OpeningAllTime",
+    "tickets": "FeesOnOrder",
+    "bookUrl": null,
+    "locationUrl": "https://maps.app.goo.gl/qqjN6HW2NQJxsVEe7",
+    "locationTitle": "alex",
+    "imagePaths": [
+      "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/c36b2d3c-9f16-4082-8b68-ede1ca638826.jpg"
+    ]
+  }
+]

@@ -325,6 +325,11 @@
     "f10at7p": "10:00 am – 07:00 pm",
     "f10at2p": "10:00 am – 02:00 pm",
     "f6pt9p": "06:00 pm – 09:00 pm",
+       "f85at11a": "08:30 am – 11:00 am",
+          "f11at1p": "11:00 am – 01:00 pm",
+             "f1pt3p": "01:00 pm – 03:00 pm",
+                "f3pt5p": "03:00 pm – 05:00 pm",
+                   "f5ptEnd": "05:00 pm – End of visiting hours (according to the day of the visit).",
     "SameTicket": "With the same ticket as",
     "OffFriSat": "Except Friday and Saturday",
     "E10EGP": "Egyptian: 10 EGP",
@@ -527,6 +532,12 @@
 "WadiSebouTempleAbout":"Wadi el-Sebua or the Black Valley is the site of two modern Egyptian temples. The first was built by Amenhotep III and later restored by Ramesses II. The temple may have been dedicated to a local Nubian form of Horus, but was later changed to Amun. During the Amarna period, images of Amun were attacked and the decorations deteriorated.\nThe second temple was built by Ramesses II in Lower Nubia, one of three temples the king had commissioned. He rebuilt and expanded the temple of Amenhotep III by building structures in front of the pylon.\nThe temple of Ramesses was built to honor the two great gods Amun-Re and Ra-Horakhty. Its entrance is preceded by a path adorned with sphinxes in the form of crouching lions.\nIn the 5th century AD it was used as a church during the Roman persecution, when the statues were destroyed and some of the temple's reliefs were covered with a layer of plaster that helped preserve the original reliefs for future generations; the painted scenes depict Ramesses worshipping the sacred boats of Amun. The face of Amun, located in the outer courtyard of the temple, was transformed into St. Peter, and when the layers of shell were removed, the drawings showed Ramesses II offering flowers to St. Peter."
 ,"ElephantineIsland":"Elephantine Island",
 "ElephantineIslandAbout":"One of the Nile islands of Egypt, it contains the Movenpick Hotel, agricultural areas, the Aswan Museum, and the remains of stone temples from different eras. \nThe island was known in ancient Egyptian texts as \"Abu\" meaning (elephant), considering that the island was an important port for receiving African ivory extracted from elephant tusks. Then it was transformed in Greek into the word \"Elephantine\" (elephant tusk ivory), which the island now bears. It was the main headquarters for all government, military and commercial missions heading south or returning home. \n\nIt includes the history of ancient Egypt in all eras and up to the Greco-Roman era. It contains four temples for the god \"Satet\", the goddess of floods. The first dates back to the first and second dynasties, around 2800 BC, the second to the beginning of the sixth dynasty around 2250 BC, the third was built by Senusret I around 1950 BC, and the fourth was built by Queen Hatshepsut around 1480 BC. \nThere is also the temple of the god \"Khnum\", whose stones were looted earlier, and all that remains of it is the columns of the main entrance, and near it is a ram tomb for the same god. There are also cabins to commemorate the rulers of Elephantine, the most important of whom is (Heka Ib), and additions continued throughout the modern state and the late ages, so a Nilometer was built on which the Nile flood measurements appear in Greek and Arabic, and it was used until recently."
+,"firstTime":"First period"
+,"secondTime":"Second period"
+,"thirdTime":"Third period"
+,"fourthTime":"Fourth period"
+,"fifthTime":"Fifth period",
+"gemNote":"** Note: Any ticket with a specified time slot (e.g., 11:00 – 13:00) requires entry to the museum within that timeframe.\n\nReservations – Online Only (Currently)."
 
 
 }
