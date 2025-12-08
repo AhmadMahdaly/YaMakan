@@ -46,9 +46,9 @@ class CairoPage extends StatelessWidget {
             cityName: TR().cairo,
             tourName: TR().religiousTour,
             list4Image: [
-              CairoPlaces().all[20].image!,
-              CairoPlaces().all[26].image!,
-              CairoPlaces().all[33].image!,
+              CairoPlaces().all[23].image!,
+              CairoPlaces().all[29].image!,
+              CairoPlaces().all[36].image!,
               CairoPlaces().all[12].image!,
             ],
             tourPage: const CairoReligiousTour(),

@@ -1,6 +1,6 @@
 name: yamakan
 description: "Egypt places project."
-version: 2.0.14+35
+version: 2.0.15+36
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

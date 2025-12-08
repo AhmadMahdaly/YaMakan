@@ -29,13 +29,13 @@ class CairoList extends StatelessWidget {
         /// مجمع الأديان
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 8.sp),
-          child: Item(item: CairoPlaces().all[20]),
+          child: Item(item: CairoPlaces().all[23]),
         ),
 
         /// المتحف المصري
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 8.sp),
-          child: Item(item: CairoPlaces().all[21]),
+          child: Item(item: CairoPlaces().all[25]),
         ),
         const NextArrow(path: CairoItems()),
       ],

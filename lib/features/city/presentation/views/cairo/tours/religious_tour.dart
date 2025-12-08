@@ -12,13 +12,17 @@ class CairoReligiousTour extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final place1 = CairoPlaces().all[23];
+    final place2 = CairoPlaces().all[29];
+    final place3 = CairoPlaces().all[36];
+    final place4 = CairoPlaces().all[12];
     return Scaffold(
       body: TourPagePathPaint(
         image4: [
-          CairoPlaces().all[20].image!,
-          CairoPlaces().all[26].image!,
-          CairoPlaces().all[33].image!,
-          CairoPlaces().all[12].image!,
+          place1.image!,
+          place2.image!,
+          place3.image!,
+          place4.image!,
         ],
         tourName: 'ReligiousTour'.tr(),
         nomDestinations: 4,
@@ -28,10 +32,10 @@ class CairoReligiousTour extends StatelessWidget {
             ///
             TourPlaceCardWidget(
               card: TourPlaceCardModel(
-                placePage: CairoPlaces().all[20].page,
-                image: CairoPlaces().all[20].image,
+                placePage: place1.page,
+                image: place1.image,
                 point: 'Point1'.tr(),
-                placeName: CairoPlaces().all[20].text,
+                placeName: place1.text,
                 time: 'Hours2'.tr(),
                 fees: TR().free,
               ),
@@ -46,10 +50,10 @@ class CairoReligiousTour extends StatelessWidget {
             ///
             TourPlaceCardWidget(
               card: TourPlaceCardModel(
-                placePage: CairoPlaces().all[26].page,
-                image: CairoPlaces().all[26].image,
+                placePage: place2.page,
+                image: place2.image,
                 point: 'Point2'.tr(),
-                placeName: CairoPlaces().all[26].text,
+                placeName: place2.text,
                 time: 'Hours2'.tr(),
                 fees: '20 ${TR().egyPound}',
               ),
@@ -64,10 +68,10 @@ class CairoReligiousTour extends StatelessWidget {
             ///
             TourPlaceCardWidget(
               card: TourPlaceCardModel(
-                placePage: CairoPlaces().all[33].page,
-                image: CairoPlaces().all[33].image,
+                placePage: place3.page,
+                image: place3.image,
                 point: 'Point3'.tr(),
-                placeName: CairoPlaces().all[33].text,
+                placeName: place3.text,
                 time: 'Hours1'.tr(),
                 fees: 'Free'.tr(),
               ),
@@ -82,10 +86,10 @@ class CairoReligiousTour extends StatelessWidget {
             ///
             TourPlaceCardWidget(
               card: TourPlaceCardModel(
-                placePage: CairoPlaces().all[12].page,
-                image: CairoPlaces().all[12].image,
+                placePage: place4.page,
+                image: place4.image,
                 point: TR().endPoint,
-                placeName: CairoPlaces().all[12].text,
+                placeName: place4.text,
                 time: 'Hours2'.tr(),
                 fees: 'Free'.tr(),
               ),
